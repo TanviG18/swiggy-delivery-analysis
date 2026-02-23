@@ -15,4 +15,4 @@ Analyzed 11,399 delivery records to evaluate delivery performance and SLA compli
 - Built SLA-based KPI (>45 mins considered late)
 
 ## 📊 Dashboard Link
-(Paste your Looker Studio link here)
+(https://lookerstudio.google.com/reporting/b0d70570-03e8-404e-8007-0a053d198efb)
