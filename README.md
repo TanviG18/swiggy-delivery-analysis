@@ -6,7 +6,7 @@ Analyzed 11,399 delivery records to evaluate delivery performance and SLA compli
 ## 🔍 Tools Used
 - Python (Pandas)
 - SQL
-- Google Looker Studio
+- Poer BI
 
 ## 📈 Key Insights
 - Average Delivery Time: 25.73 minutes
